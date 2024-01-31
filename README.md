@@ -14,6 +14,10 @@ In this course, you will dive into the world of RLHF and its application in alig
 </p>
 
 2. 📊 **Datasets for RLHF Training**: Examine the "preference" and "prompt" datasets crucial for RLHF training.
+<p align="center">
+<img src="images/2_1.png" height="250"> 
+</p>
+
 3. ⚙️ **Fine-Tuning with Google Cloud Pipeline Components Library**: Practice fine-tuning the Llama 2 model using RLHF and the open-source Google Cloud Pipeline Components Library.
 4. 📈 **Model Evaluation**: Assess the tuned LLM against the original base model using loss curves and the "Side-by-Side (SxS)" method.
 
