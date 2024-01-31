@@ -5,10 +5,12 @@
 ## Course Summary
 In this course, you will dive into the world of RLHF and its application in aligning LLMs with human values. Here's what you can expect to learn and experience:
 
-1. 📚 **Conceptual Understanding of RLHF**: Explore the RLHF training process and understand the importance of aligning LLMs with human values and preferences.
-2. 📊 **Datasets for RLHF Training**: Examine the "preference" and "prompt" datasets crucial for RLHF training.
-3. ⚙️ **Fine-Tuning with Google Cloud Pipeline Components Library**: Practice fine-tuning the Llama 2 model using RLHF and the open-source Google Cloud Pipeline Components Library.
-4. 📈 **Model Evaluation**: Assess the tuned LLM against the original base model using loss curves and the "Side-by-Side (SxS)" method.
+1. 📚 **Conceptual Understanding of RLHF**: Explore the RLHF training process and understand the importance of aligning LLMs with human values and preferences.<br />
+    **Supervised Fine Tuning :** {input text, summary}<br />
+    **RLHF :**                   {input text, summary 1, summary 2, human preference}
+3. 📊 **Datasets for RLHF Training**: Examine the "preference" and "prompt" datasets crucial for RLHF training.
+4. ⚙️ **Fine-Tuning with Google Cloud Pipeline Components Library**: Practice fine-tuning the Llama 2 model using RLHF and the open-source Google Cloud Pipeline Components Library.
+5. 📈 **Model Evaluation**: Assess the tuned LLM against the original base model using loss curves and the "Side-by-Side (SxS)" method.
 
 ## Key Points
 - 🔑 Gain a conceptual understanding of RLHF and the datasets required for this technique.
