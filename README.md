@@ -22,6 +22,7 @@ In this course, you will dive into the world of RLHF and its application in alig
 <p align="center">
 <img src="images/3_1.png" height="300"> 
 </p>
+
 4. 📈 **Model Evaluation**: Assess the tuned LLM against the original base model using loss curves and the "Side-by-Side (SxS)" method.
 
 ## Key Points
