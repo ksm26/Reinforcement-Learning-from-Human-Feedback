@@ -19,6 +19,9 @@ In this course, you will dive into the world of RLHF and its application in alig
 </p>
 
 3. ⚙️ **Fine-Tuning with Google Cloud Pipeline Components Library**: Practice fine-tuning the Llama 2 model using RLHF and the open-source Google Cloud Pipeline Components Library.
+<p align="center">
+<img src="images/3_1.png" height="300"> 
+</p>
 4. 📈 **Model Evaluation**: Assess the tuned LLM against the original base model using loss curves and the "Side-by-Side (SxS)" method.
 
 ## Key Points
